@@ -1,6 +1,6 @@
 # convert-snap-files.ps1
 # Set the folder to search and toggle DryRun
-$root = 'F:\Snapchat Export - Copy\'   # <-- change this to the folder you want to process
+$root = 'C:\Users\Ethan\Desktop\Code_Playground\Snapchat_Export_Helper\export\Download\'   # <-- change this to the folder you want to process
 $DryRun = $false                  # set to $false to actually rename files
 
 # Ensure the "original", "processed images", "unzipped", and "videos" folders exist
